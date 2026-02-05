@@ -2,6 +2,9 @@
 
 This project uses Terraform to provision AWS infrastructure for deploying a static website. It leverages Amazon S3 for hosting and CloudFront for fast, secure content delivery. Deployment is automated using GitHub Actions for continuous integration and delivery.
 
+<img width="998" height="507" alt="image" src="https://github.com/user-attachments/assets/85bfbbe9-be06-433f-9972-2bed3a5e789e" />
+
+
 ## 📌 Project Overview
 
 This repository allows you to:
